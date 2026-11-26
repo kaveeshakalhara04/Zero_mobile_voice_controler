@@ -1,0 +1,46 @@
+# Gradle
+.gradle/
+build/
+/build
+
+# Kotlin
+.kotlin/
+
+# Android Studio / IntelliJ IDEA
+*.iml
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/render.experimental.xml
+/.idea/caches/
+
+# Local configuration
+local.properties
+/local.properties
+
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Native build
+.externalNativeBuild
+.cxx
+
+# Captures & Logs
+/captures
+*.log
+
+# Keystores (keep secrets out of git)
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db
